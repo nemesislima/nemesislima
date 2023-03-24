@@ -1,4 +1,4 @@
-### oi oi, eu sou a nêmesis lima 🌷
+### oi oi, eu sou a nêmesis lima 🌷 e aqui você irá encontrar tecnologia travesti de ponta ✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemesislima&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
@@ -11,6 +11,7 @@
   <img align="center" alt="Nemesis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nemesis-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Nemesis-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  
 </div>
   
   ##
